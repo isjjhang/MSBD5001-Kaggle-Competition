@@ -1,6 +1,6 @@
 =========================
 Programming languages:
-3.6.9
+python 3.6.9
 =========================
 Required packages:
 numpy
