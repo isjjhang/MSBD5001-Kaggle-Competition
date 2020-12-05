@@ -1,4 +1,5 @@
 # MSBD5001-Kaggle-Competition
+##### `Author: JiangJiahang`
 ### Programming languages:
 * python 3.6.9
 ### Required packages:
@@ -14,4 +15,5 @@
 * urllib
 * warnings
 ### How to run it:
-* use google colab or jupyter notebook to run `JJH_Kaggle.ipynb`, following the order of code cells, remember to change the path according to your system.
+* use google colab or jupyter notebook to run `JJH_Kaggle.ipynb`, following the order of code cells, to get the submission file `result_final.csv`
+* remember to change the path according to your system
