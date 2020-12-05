@@ -15,5 +15,4 @@
 * urllib
 * warnings
 ### How to run it:
-* use google colab or jupyter notebook to run `JJH_Kaggle.ipynb`, following the order of code cells, to get the submission file `result_final.csv`
-* remember to change the path according to your system
+* use google colab or jupyter notebook to run `JJH_Kaggle.ipynb`, change the path according to your system, follow the order of code cells, and finally get the submission file `result_final.csv`
