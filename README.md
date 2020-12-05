@@ -1,4 +1,4 @@
-# MSBD5001-Kaggle-Competition
+# MSBD5001-Kaggle-Competition ![]https://img.shields.io/badge/license-MIT-blue
 ### Programming languages:
 * python 3.6.9
 ### Required packages:
